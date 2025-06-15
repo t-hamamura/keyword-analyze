@@ -13,7 +13,7 @@ LINE Messaging API、Zenserp API、Google Sheetsを使用したキーワード�
 
 1. リポジトリをクローン
 ```bash
-git clone https://github.com/yourusername/keyword-analyze.git
+git clone https://github.com/t-hamamura/keyword-analyze.git
 cd keyword-analyze
 ```
 
@@ -69,4 +69,4 @@ uvicorn app.main:app --reload
 
 - Zenserp APIの無料プランは月間50リクエストまで
 - APIキーは必ず環境変数で管理
-- 本番環境では適切なセキュリティ設定を行うこと 
+- 本番環境では適切なセキュリティ設定を行うこと
